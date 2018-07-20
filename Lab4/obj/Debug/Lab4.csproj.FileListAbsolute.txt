@@ -1,0 +1,7 @@
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab4\Lab4\obj\Debug\Lab4.pdb
